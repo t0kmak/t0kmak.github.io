@@ -1,4 +1,4 @@
-#  The contact options.
+# The contact options.
 
 - type: github
   icon: "fab fa-github"
@@ -8,41 +8,26 @@
 
 - type: email
   icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+  noblank: true  # open link in current tab
 
 - type: rss
   icon: "fas fa-rss"
   noblank: true
-# Uncomment and complete the url below to enable more contact options
-#
-# - type: mastodon
-#   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your Mastodon account page, rel="me" will be applied for verification
-#
-# - type: linkedin
-#   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your Linkedin homepage
-#
-# - type: stack-overflow
-#   icon: 'fab fa-stack-overflow'
-#   url:  ''                  # Fill with your stackoverflow homepage
-#
-# - type: bluesky
-#   icon: 'fa-brands fa-bluesky'
-#   url: ''                   # Fill with your Bluesky profile link
-#
-# - type: reddit
-#   icon: 'fa-brands fa-reddit'
-#   url: ''                   # Fill with your Reddit profile link
-#
-# - type: threads
-#   icon: 'fa-brands fa-threads'
-#   url: ''                   # Fill with your Threads profile link
-platforms:
-  - type: Twitter
-    icon: "fa-brands fa-square-x-twitter"
-    link: "https://twitter.com/intent/tweet?text=TITLE&url=URL"
 
-  - type: Linkedin
-    icon: "fab fa-linkedin"
-    link: "https://www.linkedin.com/sharing/share-offsite/?url=URL"
+# Uncomment and complete the url below to enable more contact options
+
+# - type: mastodon
+#   icon: "fab fa-mastodon"
+#   url: ""  # Fill with your Mastodon account page, rel="me"
+
+# - type: linkedin
+#   icon: "fab fa-linkedin"
+#   url: ""  # Fill with your LinkedIn homepage
+
+# - type: stack-overflow
+#   icon: "fab fa-stack-overflow"
+#   url: ""  # Fill with your Stack Overflow homepage
+
+# - type: bluesky
+#   icon: "fa-brands fa-bluesky"
+#   url: ""  # Fill with your Bluesky profile link
